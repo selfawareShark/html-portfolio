@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial scale 1.0">
+    <title>Your Page Title</title> <!--still not sure if this is a per site page 
+    change or something that carries over between sites using this boilerplate.-->
+
+    <!--<link rel="stylesheet" href="css/style.css">--> <!-- Gotta learn about this -->
+
+</head>
+<body>
+    <!-- content before the script-->
+    <script src=""js/main.js" defer></script> 
+<!--common spot for JavaScript files, often placed at the end of the body to ensure content loads first.-->
+</body>
